@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buzzfeed-quiz-clone/static/css/main.407e7e01.css",
+    "main.js": "/buzzfeed-quiz-clone/static/js/main.8323f646.js",
+    "index.html": "/buzzfeed-quiz-clone/index.html",
+    "main.407e7e01.css.map": "/buzzfeed-quiz-clone/static/css/main.407e7e01.css.map",
+    "main.8323f646.js.map": "/buzzfeed-quiz-clone/static/js/main.8323f646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407e7e01.css",
+    "static/js/main.8323f646.js"
+  ]
+}
